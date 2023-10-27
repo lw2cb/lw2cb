@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning a lot stuff
 - - 👯 I’m looking to collaborate on empirical economics
-- 
+
 <!--
 **lw2cb/lw2cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
